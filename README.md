@@ -11,7 +11,7 @@ You might have seen this chicken sreaming meme somewhere:
 
 LOL 😆 Cant stop laughing at this. 
 
-I wanted to prank my friends with this meme using voice call so I thought Twilio would the perfect choice of my project.
+I wanted to prank my friends with this meme using voice call so I thought Twilio would be the perfect choice for my project.
 
 
 1. Clone the repository to your local machine
@@ -22,4 +22,4 @@ I wanted to prank my friends with this meme using voice call so I thought Twilio
 
 ## Important Info
 
-You need to verify your friend's number through the Twilio console to call them.
+You need to verify your friend's number through the [Twilio console](https://console.twilio.com/us1/develop/phone-numbers/manage/verified) to call them.

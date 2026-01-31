@@ -5,7 +5,9 @@ You might have seen this chicken sreaming meme somewhere:
 
 (Disclaimer: Lower the volume while playing this video)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OxstMK_Gkzw?si=Ccvc0zt1QGgniWuJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Chicken Screaming](https://img.youtube.com/vi/OxstMK_Gkzw/0.jpg)](https://www.youtube.com/watch?v=OxstMK_Gkzw)
+
 
 LOL 😆 Cant stop laughing at this. 
 
